@@ -1,0 +1,37 @@
+# -------------------------------
+# FRONTEND (React)
+# -------------------------------
+frontend/node_modules/
+frontend/build/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.production.local
+
+# -------------------------------
+# BACKEND (Express or Django)
+# -------------------------------
+backend/node_modules/
+backend/venv/
+backend/env/
+backend/.env
+backend/__pycache__/
+backend/*.pyc
+backend/db.sqlite3
+backend/staticfiles/
+backend/logs/
+backend/*.log
+backend/secrets/
+backend/*.pem
+backend/*.key
+backend/*.crt
+
+# -------------------------------
+# GLOBAL
+# -------------------------------
+.DS_Store
+.idea/
+.vscode/
+Thumbs.db
+*.swp
