@@ -8,7 +8,7 @@
 - ✅ Task tracking & status updates
 
 ## ⚙️ Tech Stack
-React | Express | LocalStorage | TailwindCSS
+React | Express | LocalStorage | BootStrap
 
-
-I will upload the screenshots and live demo soon... 😉
+I didn't done with backend till now. I used localstorage to manage with data.I will get bact to u as soon as it completed..
+and I will upload the screenshots and live demo soon... 😉
