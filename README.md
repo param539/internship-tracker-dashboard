@@ -16,5 +16,8 @@ and I will give u the live demo soon... 😉
 ## Screenshots
 here are some of the outcomes of my project
 
-welcome page it1.png
 ![Welcome Page](it1.png)
+![Login Page](login page.png)
+![SignUp Page](it2.png)
+![User Dashboard](ram.user.png)
+![Internship Programs](programs.png)
