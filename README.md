@@ -11,4 +11,6 @@
 React | Express | LocalStorage | BootStrap
 
 I didn't done with backend till now. I used localstorage to manage with data.I will get bact to u as soon as it completed..
-and I will upload the screenshots and live demo soon... 😉
+and I will give u the live demo soon... 😉
+
+![Predictor Screenshot](it.png)
