@@ -1,7 +1,7 @@
 # Internship Tracker 🎯
 
 > A platform to manage interns, tasks, and programs efficiently.
-# Welcome Page
+### Welcome Page
 ![Welcome Page](it1.png)
 
 ## 🚀 Features
@@ -18,11 +18,11 @@ and I will give u the live demo soon... 😉
 ## Screenshots
 here are some of the outcomes of my project
 
-# Login Page
+### Login Page
 ![Login Page](login.png)
-# SignUp Page
+### SignUp Page
 ![SignUp Page](it2.png)
-# User Dashboard
+### User Dashboard
 ![User Dashboard](ram.user.png)
-# Add & view Internship Programs in Admin Pages
+### Add & view Internship Programs in Admin Pages
 ![Internship Programs](programs.png)
