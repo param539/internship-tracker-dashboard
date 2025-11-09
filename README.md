@@ -16,8 +16,13 @@ and I will give u the live demo soon... 😉
 ## Screenshots
 here are some of the outcomes of my project
 
+# Welcome Page
 ![Welcome Page](it1.png)
-![Login Page](login page.png)
+# Login Page
+![Login Page](login.png)
+# SignUp Page
 ![SignUp Page](it2.png)
+# User Dashboard
 ![User Dashboard](ram.user.png)
+# Add & view Internship Programs in Admin Pages
 ![Internship Programs](programs.png)
